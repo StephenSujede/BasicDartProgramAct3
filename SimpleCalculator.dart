@@ -40,6 +40,5 @@ void main() {
       print("Invalid operator.");
       return;
   }
-
   print("Result: $result");
 }
